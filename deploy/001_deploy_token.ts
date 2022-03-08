@@ -19,6 +19,7 @@ const func: DeployFunction = async function (hre: HardhatRuntimeEnvironment) {
   const host = '0x2dFe937cD98Ab92e59cF3139138f18c823a4efE7';
   const cfa = '0xEbdA4ceF883A7B12c4E669Ebc58927FBa8447C7D';
   const fDAIx = '0x59988e47A3503AaFaA0368b9deF095c818Fdca01';
+  const Brightx = '0x7AecA73f38f8F33AB7FF067fED1268384d12324d';
 */
 
   //mumbai contracts
