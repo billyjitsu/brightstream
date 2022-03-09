@@ -223,7 +223,7 @@ contract BrightIDStream is ERC721, SuperAppBase {
         onlyHost
         returns (bytes memory newCtx)
     {
-        _setBaseURI("ipfs://QmZ6WWpAaC7No9688NRRp2AagyiZevUReD4AvyJP1X6C1Z/1.json");
+        _setBaseURI("ipfs://QmWaW7fAEcRjvr25cvsFrUbWZGDnq6pVmnDGMs8uuV9iYW/1.json");
         return _updateOutflow(_ctx);
     }
 
